@@ -11,7 +11,7 @@ function Footer() {
             <div className="footer-center">
               <h2>AWAP</h2>
               <div>
-                <a target="_blank " href="https://github.com/ant-design/ant-design">
+                <a target="_blank " href="#">
                   Privacy
                 </a>
               </div>
@@ -59,7 +59,7 @@ function Footer() {
             }}
           >
             <a
-              href="https://docs.alipay.com/policies/privacy/antfin"
+              href="#"
               rel="noopener noreferrer"
               target="_blank"
             >
@@ -68,11 +68,11 @@ function Footer() {
           </span>
           <span style={{ marginRight: 24 }}>
             <a
-              href="https://render.alipay.com/p/f/fd-izto3cem/index.html"
+              href="#"
               rel="noopener noreferrer"
               target="_blank"
             >
-              <span style={{ marginRight: 12 }}>RC B2-100257</span>
+              <span style={{ marginRight: 12 }}>RC-1886106</span>
             </a>
           </span>
 
