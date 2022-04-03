@@ -98,7 +98,19 @@ export default function Page2({ isMobile }) {
             leaveReverse
           >
             <h3 key="h1">The company</h3>
-            <p key="p">Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum eveniet laboriosam adipisci ipsum eos voluptatibus eaque, earum aliquam ipsa maiores et porro necessitatibus beatae culpa accusantium! Est totam alias laborum.</p>
+            <p key="p">Awap Investors Limited is a global investment platform from Eastern Nigeria founded by Okorie Caleb Ezechima (Ability) in the year 2021 with her Headquarters at Ebonyi State, Nigeria. Its registered under cooperate affairs commission and licensed by Nigerian export promotion council. 
+Awap investors limited is a universal investment platform born out of the passion for trade and commerce, minimization of frauds and scams, profitizing our social life and mostly using technology to maximize our incomes and live our dream life.
+Awap investors limited is a cooperate company that base on the following business sectors below:
+<ul>
+<li>Agriculture</li>
+<li>Real estate investment</li>	
+<li>Forex Trading</li>	
+<li>Financial Service</li>	
+</ul>
+Awap investors limited invest her capital into the above four (4) main business sectors to make a good profit and as well promote trade and commerce around the globe. Awap investors is been structured to have and accommodate others investors who will invest in her business concept and partake in the decision making and profit sharing.
+
+Awap as a company with her expertise in trade and commerce are in a journey to change lives of her investors using technology and giving the market a digital approach
+</p>
             {componentButton}
           </QueueAnim>
           <QueueAnim
@@ -110,7 +122,31 @@ export default function Page2({ isMobile }) {
             leaveReverse
           >
              <h3 key="h1">Our Business</h3>
-            <p key="p">Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum eveniet laboriosam adipisci ipsum eos voluptatibus eaque, earum aliquam ipsa maiores et porro necessitatibus beatae culpa accusantium! Est totam alias laborum.</p>
+            <p key="p">Awap Investors Limited is pan African company which aims at using the necessary available businesses and digital strategies to boast the continental and global economy. We venture our resources and strategies into the business sectors below;
+            <ul>
+<li>Agriculture</li>
+<li>Real estate investment</li>	
+<li>Forex Trading</li>	
+<li>Financial Service</li>	
+</ul>
+<h3>AGRICULTURE</h3>
+<p>Agriculture is one of the basic sources of income to Awap investors. To this end, the company invests a higher percentage of her capital into agricultural products in both raw materials and finished goods.
+We use our capital and move into agricultural dominated areas like; Benue, Ebonyi, Cross River, Nasarawa and many other Northern part of the country and purchase the agricultural products such as rice, yam, oil, garri, egusi and beans etc and transport it to non-agricultural area and highly populated towns like Bayelsa, Port-Harcourt, Owerri, Lagos and Abuja etc. for sales and maximization of profit.
+Awap propose to generate about $50,000  monthly in trade and businesses, as the company will mainly engage in building of farms, construction of agro-base industries and companies, This is to be actualized through the use of the regional staff and agents in the execution of the sales and other farming operations.</p>
+<h3>REAL ESTATE INVESTMENT</h3>
+<p>Landed property as one of the most basic asset of human with huge profits as it has been set to always appreciate in value and never to depreciate. 
+Awap investors invest her capital into real estate through the buying and selling of lands and properties at different locations and cities. Developing and managing of estates and building of structures. 
+How Do We Make Profit? With the help of the company digital media, agents and connections with buyers and sellers to buy lands and properties at a cheaper rate and sell at higher rate immediately or after some periods through our real estate management and make profits from our investments</p>
+
+<h3>FOREX TRADING</h3>
+<p>Forex Trading has been discovered long ago as one of the most lucrative ventures of human at all times, 
+Awap investors using some quota of her capital, invest in the foreign exchange market using her company team of expertise on Forex trade and with the use of analytical tools and technology to make a reasonable profit and returns to the company.
+The foreign exchange market have become a very good source of income to many financial institute which sustains many companies and boast the economy and financial status of many companies</p>
+<h3>FINANCIAL SERVICES</h3>
+<p>It's important to know that favourable financial services ensure the proper growth and promotion of domestic as well as foreign trade. 
+AWAP INVESTORS LTD in a mission to provide a transparent and beneficial financial services to her members renders services such as SAVINGS, LOANING, INVESTMENTS. 
+The above financial services will in many ways promote the business growth of her members with huge passive and active income and as well solve the financial fraud and crises in the digital space and build reliable system to embrace financial possibilities.</p>
+</p>
             {componentButton}
           </QueueAnim>
         </ScrollOverPack>

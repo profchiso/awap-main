@@ -10,8 +10,9 @@ import { Link,Route,Switch, Router } from 'bisheng/router';
 const page1Data = [
   {
     img: 'https://gw.alipayobjects.com/zos/rmsportal/URIeCOKLMAbRXaeXoNqN.svg',
-    name: 'Investment',
-    nameEn: 'We offer good investment opportunities with nice ROI',
+    name: 'AGRICULTURE',
+    nameEn: `Agriculture is one of the basic sources of income to Awap investors. To this end, the company invests a higher percentage of her capital into agricultural products in both raw materials and finished goods.
+    We use our capital and move into agricultural dominated areas like; Benue, Ebonyi, Cross River, Nasarawa and many other Northern part of the country and purchase the agricultural products such as rice, yam, oil, garri, egusi and beans etc and transport it to non-agricultural area and highly populated towns like Bayelsa, Port-Harcourt, Owerri, Lagos and Abuja etc. for sales and maximization of profit`,
     svgBg: (
       <svg width="213px" height="303px" viewBox="0 0 213 303" stroke="none" strokeWidth="1" fill="none" fillRule="evenodd">
         <circle id="Oval-12-Copy-6" fill="#1D39C4" opacity="0.45" cx="60" cy="157" r="25" />
@@ -33,8 +34,10 @@ const page1Data = [
   },
   {
     img: 'https://gw.alipayobjects.com/zos/rmsportal/qXncdwwUTTgUFnsbCNCE.svg',
-    name: 'Savings',
-    nameEn: 'We also offer savings',
+    name: 'REAL ESTATE INVESTMENT',
+    nameEn: `Landed property as one of the most basic asset of human with huge profits as it has been set to always appreciate in value and never to depreciate. 
+    Awap investors invest her capital into real estate through the buying and selling of lands and properties at different locations and cities. Developing and managing of estates and building of structures. 
+    How Do We Make Profit ? With the help of the company digital media, agents and connections with buyers and sellers to buy lands and properties at a cheaper rate and sell at higher rate immediately or after some periods through our real estate management and make profits from our investments`,
     svgBg: (
       <svg width="207px" height="295px" viewBox="0 0 207 295" stroke="none" strokeWidth="1" fill="none" fillRule="evenodd">
         <rect id="Rectangle-14" stroke="#1D39C4" opacity="0.7" x="192.5" y="62.5" width="14" height="14" rx="1" />
@@ -54,8 +57,10 @@ const page1Data = [
   },
   {
     img: 'https://gw.alipayobjects.com/zos/rmsportal/YFXXZocxAgjReehpPNbX.svg',
-    name: 'Loan',
-    nameEn: 'We also give loans',
+    name: 'FOREX TRADING',
+    nameEn: `Forex Trading has been discovered long ago as one of the most lucrative ventures of human at all times, 
+    Awap investors using some quota of her capital, invest in the foreign exchange market using her company team of expertise on Forex trade and with the use of analytical tools and technology to make a reasonable profit and returns to the company.
+    The foreign exchange market have become a very good source of income to many financial institute which sustains many companies and boast the economy and financial status of many companies`,
     svgBg: (
       <svg width="215px" height="286px" viewBox="0 0 215 286" stroke="none" strokeWidth="1" fill="none" fillRule="evenodd" style={{ transform: 'translateX(-30px)' }}>
         <circle id="Oval-12-Copy-4" fill="#1D39C4" opacity="0.35" cx="77" cy="152" r="10" />
@@ -75,8 +80,10 @@ const page1Data = [
   },
   {
     img: 'https://gw.alipayobjects.com/zos/rmsportal/VPuetGsvJuYBwoDkZWFW.svg',
-    name: 'Trading',
-    nameEn: 'We offer trading, stock, forest and gold',
+    name: 'FINANCIAL SERVICES',
+    nameEn: `It's important to know that favourable financial services ensure the proper growth and promotion of domestic as well as foreign trade. 
+    AWAP INVESTORS LTD in a mission to provide a transparent and beneficial financial services to her members renders services such as SAVINGS, LOANING, INVESTMENTS. 
+    The above financial services will in many ways promote the business growth of her members with huge passive and active income and as well solve the financial fraud and crises in the digital space  and build reliable system to embrace financial possibilities.`,
     svgBg: (
       <svg width="193px" height="286px" viewBox="0 0 193 286" stroke="none" strokeWidth="1" fill="none" fillRule="evenodd" style={{ transform: 'translateY(-20px)' }}>
         <circle id="Oval-12-Copy-4" fill="#1D39C4" opacity="0.35" cx="71" cy="65" r="10" />

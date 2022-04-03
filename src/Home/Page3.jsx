@@ -7,32 +7,98 @@ import svgBgToParallax from './util';
 
 const page3Data = [
   {
-    title: <h3 style={{color:"white"}}>Silver</h3>,
-    content: <div>
+    title: <h3 style={{color:"white"}}>AGRICULTURAL PACKAGES ($20 - $100)</h3>,
+    content: <div style={{color:"white"}}>
       <div style={{display:"flex",justifyContent:"space-between"}}>
-        <div>1</div>
-        <div>1</div>
+        <div>Minimum investment</div>
+        <div>$20</div>
+      </div>
+      
+      <div style={{display:"flex",justifyContent:"space-between"}}>
+        <div>Maximum investment</div>
+        <div>$100</div>
+      </div>
+      <div style={{display:"flex",justifyContent:"space-between"}}>
+        <div>Contract Duration</div>
+        <div>20wks</div>
+      </div>
+      
+      <div style={{display:"flex",justifyContent:"space-between"}}>
+        <div>Netpoint</div>
+        <div>5pts</div>
+      </div>
+      <div style={{display:"flex",justifyContent:"space-between"}}>
+        <div>Weekly ROI</div>
+        <div>12.5%</div>
+      </div>
+      <div style={{display:"flex",justifyContent:"space-between"}}>
+        <div>Total ROI</div>
+        <div>250%</div>
       </div>
     </div>,
     img: 'https://gw.alipayobjects.com/zos/rmsportal/qggKjIGNFlVmMpwDUXPU.svg',
   },
   {
-    title: <h3 style={{color:"white"}}>Gold</h3>,
-    content:  <div>
+    title: <h3 style={{color:"white"}}>FOREX  PACKAGES ($101 - $1000)</h3>,
+    content:  <div style={{color:"white"}}>
     <div style={{display:"flex",justifyContent:"space-between"}}>
-      <div>1</div>
-      <div>1</div>
-    </div>
+        <div>Minimum investment</div>
+        <div>$101</div>
+      </div>
+      
+      <div style={{display:"flex",justifyContent:"space-between"}}>
+        <div>Maximum investment</div>
+        <div>$1000</div>
+      </div>
+      <div style={{display:"flex",justifyContent:"space-between"}}>
+        <div>Contract Duration</div>
+        <div>17wks</div>
+      </div>
+      
+      <div style={{display:"flex",justifyContent:"space-between"}}>
+        <div>Netpoint</div>
+        <div>10pts</div>
+      </div>
+      <div style={{display:"flex",justifyContent:"space-between"}}>
+        <div>Weekly ROI</div>
+        <div>14.7%</div>
+      </div>
+      <div style={{display:"flex",justifyContent:"space-between"}}>
+        <div>Total ROI</div>
+        <div>250%</div>
+      </div>
   </div>,
     img: 'https://gw.alipayobjects.com/zos/rmsportal/dgjVqwkJvptQEtlfctvk.svg',
   },
   {
-    title: <h3 style={{color:"white"}}>Diamond</h3>,
-    content:  <div>
-    <div style={{display:"flex",justifyContent:"space-between"}}>
-      <div>1</div>
-      <div>1</div>
-    </div>
+    title: <h3 style={{color:"white"}}>REAL ESTATE  PACKAGES ($1001 - $5000)</h3>,
+    content:  <div style={{color:"white"}}>
+    <div style={{display:"flex",justifyContent:"space-between",color:"white"}}>
+        <div>Minimum investment</div>
+        <div>$1001</div>
+      </div>
+      
+      <div style={{display:"flex",justifyContent:"space-between"}}>
+        <div>Maximum investment</div>
+        <div>$5000</div>
+      </div>
+      <div style={{display:"flex",justifyContent:"space-between"}}>
+        <div>Contract Duration</div>
+        <div>15wks</div>
+      </div>
+      
+      <div style={{display:"flex",justifyContent:"space-between"}}>
+        <div>Netpoint</div>
+        <div>15pts</div>
+      </div>
+      <div style={{display:"flex",justifyContent:"space-between"}}>
+        <div>Weekly ROI</div>
+        <div>16.7%</div>
+      </div>
+      <div style={{display:"flex",justifyContent:"space-between"}}>
+        <div>Total ROI</div>
+        <div>250%</div>
+      </div>
   </div>,
 
     img: 'https://gw.alipayobjects.com/zos/rmsportal/qggKjIGNFlVmMpwDUXPU.svg',
